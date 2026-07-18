@@ -4,10 +4,10 @@ Pagina somples HTML que simula uma IA
 
 ## Tecnologias
 - HTML
-CSS
-JS
-Git
-VsCode
+- CSS
+- JS
+- Git
+- VsCode
 
 ## Para testar
 - 1 Clone este projeto
